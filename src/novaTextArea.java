@@ -4,8 +4,8 @@ public class novaTextArea extends JTextArea{
 
 	private static final long serialVersionUID = 1L;
 	
-	private int linhas = 9;
-	private int colunas = 25;
+	private int linhas = 10;
+	private int colunas = 20;
 	
 	public novaTextArea() {
 		super();
